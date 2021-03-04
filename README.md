@@ -1,5 +1,5 @@
 # test-repo
 Test Repository Coursera
-## editinf the file
+## editing the file
 
-It's a markdown file in this respoitory
+It's a markdown file in this repository
